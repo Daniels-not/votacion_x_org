@@ -1,0 +1,7 @@
+{
+  "name": "votacion_x_org",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
